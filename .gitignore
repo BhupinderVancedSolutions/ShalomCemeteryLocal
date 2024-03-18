@@ -203,6 +203,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+<<<<<<< HEAD
 /Application/obj/project.nuget.cache
 /Domian/bin/Debug/net6.0/Domian.deps.json
 /Domian/bin/Debug/net6.0/Domian.dll
@@ -341,3 +342,35 @@ FakesAssemblies/
 /ShalomCemetery/bin/Debug/net6.0/sk/Humanizer.resources.dll
 /ShalomCemetery/bin/Debug/net6.0/sl/Humanizer.resources.dll
 /ShalomCemetery/bin/Debug/net6.0/sr/Humanizer.resources.dll
+=======
+/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/.vs/ShalomCemetery/FileContentIndex/3c4c3954-97bb-42e9-8f4c-a719de13b72c.vsidx
+/.vs/ShalomCemetery/v17/.suo
+>>>>>>> a516f3b469eb0145fbdb87e812a9f066ffa1d477
+/.vs/ShalomCemetery/FileContentIndex/3c4c3954-97bb-42e9-8f4c-a719de13b72c.vsidx
+/.vs/ShalomCemetery/FileContentIndex/97e5a6ea-1df8-4eb9-84e0-00f767ee2720.vsidx
+/.vs/ShalomCemetery/FileContentIndex/c3d2d09f-7218-48d2-9017-bbe9b3180756.vsidx
+/.vs/ShalomCemetery/FileContentIndex/ef4773d3-786b-4d80-87fa-7361911a5d41.vsidx
+/.vs/ShalomCemetery/FileContentIndex/f6624212-fa4b-4bba-8287-8d8284558320.vsidx
+/Application/obj/Application.csproj.nuget.dgspec.json
+/Application/obj/Application.csproj.nuget.g.props
+/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Application/obj/Debug/net6.0/Application.assets.cache
+/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Application/obj/project.assets.json
+/Domian/obj/Domian.csproj.nuget.dgspec.json
+/Domian/obj/Domian.csproj.nuget.g.props
+/Domian/obj/project.assets.json
+/ExternalAPI/obj/ExternalAPI.csproj.nuget.dgspec.json
+/ExternalAPI/obj/ExternalAPI.csproj.nuget.g.props
+/ExternalAPI/obj/project.assets.json
+/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json
+/Infrastructure/obj/Infrastructure.csproj.nuget.g.props
+/Infrastructure/obj/project.assets.json
+/Persistence/obj/Persistence.csproj.nuget.dgspec.json
+/Persistence/obj/Persistence.csproj.nuget.g.props
+/Persistence/obj/project.assets.json
+/ShalomCemetery/obj/project.assets.json
+/ShalomCemetery/obj/ShalomCemetery.csproj.nuget.dgspec.json
+/ShalomCemetery/obj/ShalomCemetery.csproj.nuget.g.props
