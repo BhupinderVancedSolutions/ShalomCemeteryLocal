@@ -10,3 +10,15 @@ D:\projects\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.dll
 D:\projects\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\refint\Domian.dll
 D:\projects\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.pdb
 D:\projects\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\ref\Domian.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\bin\Debug\net6.0\Domian.deps.json
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\bin\Debug\net6.0\Domian.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\bin\Debug\net6.0\Domian.pdb
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.AssemblyInfoInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.AssemblyInfo.cs
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.csproj.CoreCompileInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.sourcelink.json
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\refint\Domian.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\Domian.pdb
+D:\ShalomCemetery\ShalomCemeteryLocal\Domian\obj\Debug\net6.0\ref\Domian.dll

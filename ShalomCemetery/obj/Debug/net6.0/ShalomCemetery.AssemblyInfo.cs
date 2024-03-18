@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShalomCemetery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790592f9d5d40e85a39e98b4651508c095a896b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+786d2107ddfd8e4ea04eaeb4f773971844ebb87b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShalomCemetery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShalomCemetery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

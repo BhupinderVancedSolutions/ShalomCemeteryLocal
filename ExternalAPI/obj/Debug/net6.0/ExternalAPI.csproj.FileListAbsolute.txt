@@ -10,3 +10,15 @@ D:\projects\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.dll
 D:\projects\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\refint\ExternalAPI.dll
 D:\projects\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.pdb
 D:\projects\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ref\ExternalAPI.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\bin\Debug\net6.0\ExternalAPI.deps.json
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\bin\Debug\net6.0\ExternalAPI.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\bin\Debug\net6.0\ExternalAPI.pdb
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.AssemblyInfoInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.AssemblyInfo.cs
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.csproj.CoreCompileInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.sourcelink.json
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\refint\ExternalAPI.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ExternalAPI.pdb
+D:\ShalomCemetery\ShalomCemeteryLocal\ExternalAPI\obj\Debug\net6.0\ref\ExternalAPI.dll
