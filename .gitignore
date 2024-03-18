@@ -203,3 +203,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/.vs/ShalomCemetery/FileContentIndex/3c4c3954-97bb-42e9-8f4c-a719de13b72c.vsidx
+/.vs/ShalomCemetery/v17/.suo
