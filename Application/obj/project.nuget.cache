@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Da8x2Wkw9pdGlJPTNt4Xrza5dfIcvWcWgnyfdUbfweWGi+IROVfjdFbYWVsSkBvVsnnXh4TRgmq68O4qGisAFQ==",
+  "dgSpecHash": "YXWkyJK6oiM+4NNxHX9BagKYWcBz8R52VeG3Ghkt74NA7poU+U5Jve88xLODHOyIphk0nwZq2J4YfM/AQ8DDsA==",
   "success": true,
-  "projectFilePath": "D:\\projects\\ShalomCemeteryLocal\\Application\\Application.csproj",
+  "projectFilePath": "D:\\ShalomCemetery\\ShalomCemeteryLocal\\Application\\Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dell\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512",
-    "C:\\Users\\dell\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\6.0.0\\mediatr.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\6.0.0\\mediatr.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }

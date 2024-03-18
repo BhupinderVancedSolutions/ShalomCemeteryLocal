@@ -21,3 +21,15 @@ D:\projects\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.dll
 D:\projects\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 D:\projects\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.pdb
 D:\projects\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.sourcelink.json
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\ShalomCemetery\ShalomCemeteryLocal\Persistence\obj\Debug\net6.0\ref\Persistence.dll

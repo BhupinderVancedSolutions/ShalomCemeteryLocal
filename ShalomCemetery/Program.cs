@@ -1,4 +1,5 @@
 using MediatR;
+using Middlewares;
 
 namespace ShalomCemetery
 {
@@ -27,7 +28,7 @@ namespace ShalomCemetery
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseMiddleware<CustomExceptionMiddleware>();
             app.UseAuthorization();
 
             app.MapControllers();

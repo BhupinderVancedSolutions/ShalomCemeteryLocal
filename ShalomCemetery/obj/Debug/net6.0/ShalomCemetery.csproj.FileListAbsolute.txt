@@ -460,3 +460,15 @@ D:\projects\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\refint\ShalomCem
 D:\projects\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.pdb
 D:\projects\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.genruntimeconfig.cache
 D:\projects\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ref\ShalomCemetery.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.csproj.AssemblyReference.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.AssemblyInfoInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.AssemblyInfo.cs
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.csproj.CoreCompileInputs.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.MvcApplicationPartsAssemblyInfo.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.RazorAssemblyInfo.cache
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.RazorAssemblyInfo.cs
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.sourcelink.json
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\refint\ShalomCemetery.dll
+D:\ShalomCemetery\ShalomCemeteryLocal\ShalomCemetery\obj\Debug\net6.0\ShalomCemetery.pdb
